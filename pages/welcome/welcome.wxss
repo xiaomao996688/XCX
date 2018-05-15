@@ -1,0 +1,32 @@
+/* pages/welcome/welcome.wxss */
+page{
+  background: #b3d4db;
+}
+.container{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.user-img{
+  height: 160rpx;
+  width:160rpx; 
+  margin-top: 278rpx;
+}
+.user-info{
+  margin-top: 106rpx;
+  font-size: 28rpx;
+  color: #000000;
+}
+.container-moto{
+  width: 256rpx;
+  height: 80rpx;
+  margin-top: 212rpx;
+  border: 1px solid #405f80;
+  border-radius: 10rpx;
+ text-align: center;
+}
+.moto{
+    font-size: 20rpx;
+    line-height: 80rpx;
+    color:#405f80; 
+}

@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/welcome/welcome"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#b3d4db",
+    "navigationBarTextStyle": "#fff",
+    "navigationBarTitleText": "欢迎来到我的小程序",
+    "backgroundColor": "#b3d4db",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
